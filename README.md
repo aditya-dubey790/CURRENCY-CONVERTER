@@ -1,6 +1,6 @@
 <p>
    project live :
-  <a href="https://github.com/aditya-dubey790/CURRENCY-CONVERTER" target="_blank">
+  <a href=" https://aditya-dubey790.github.io/CURRENCY-CONVERTER/" target="_blank">
     Currency Converter GitHub Repo
   </a>
 </p>
